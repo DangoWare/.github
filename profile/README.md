@@ -4,4 +4,4 @@
 ### Current Projects
 - Dango Music Player
 - Oden Music Bot
-- dpf (Dangoware Picture Format)
+- Confetti-Box
