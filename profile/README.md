@@ -5,3 +5,4 @@
 - Dango Music Player
 - Oden Music Bot
 - Confetti-Box
+- Prismriver
